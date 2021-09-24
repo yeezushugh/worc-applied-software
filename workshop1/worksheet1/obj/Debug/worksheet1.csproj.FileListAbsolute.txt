@@ -1,0 +1,11 @@
+C:\Users\XUHA1_21\Desktop\workshop1\worksheet1\bin\Debug\worksheet1.exe.config
+C:\Users\XUHA1_21\Desktop\workshop1\worksheet1\bin\Debug\worksheet1.exe
+C:\Users\XUHA1_21\Desktop\workshop1\worksheet1\bin\Debug\worksheet1.pdb
+C:\Users\XUHA1_21\Desktop\workshop1\worksheet1\obj\Debug\worksheet1.csproj.AssemblyReference.cache
+C:\Users\XUHA1_21\Desktop\workshop1\worksheet1\obj\Debug\worksheet1.FishyNote.resources
+C:\Users\XUHA1_21\Desktop\workshop1\worksheet1\obj\Debug\worksheet1.FishyNotes.resources
+C:\Users\XUHA1_21\Desktop\workshop1\worksheet1\obj\Debug\worksheet1.Properties.Resources.resources
+C:\Users\XUHA1_21\Desktop\workshop1\worksheet1\obj\Debug\worksheet1.csproj.GenerateResource.cache
+C:\Users\XUHA1_21\Desktop\workshop1\worksheet1\obj\Debug\worksheet1.csproj.CoreCompileInputs.cache
+C:\Users\XUHA1_21\Desktop\workshop1\worksheet1\obj\Debug\worksheet1.exe
+C:\Users\XUHA1_21\Desktop\workshop1\worksheet1\obj\Debug\worksheet1.pdb
